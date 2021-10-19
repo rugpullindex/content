@@ -21,7 +21,7 @@ The 8 user profiles are:
 *Written by [Scott Milat](https://www.scottmilat.com) & [Tim
 Daubenschuetz](https://timdaub.github.io/)*
 
-## Ocean Stakers
+### Ocean Stakers
 
 **Context** 
 
@@ -61,7 +61,7 @@ get into something in the hopes of generating a good ROI.
 * Which columns do I care about?
 * How can I learn more about this?
 
-## Data Token Investors
+### Data Token Investors
 
 **Context**
 
@@ -102,7 +102,7 @@ get into something in the hopes of generating a good ROI.
 * Which columns do I care about?
 * How can I learn more about this?
 
-## RPI Community Members
+### RPI Community Members
 
 **Context**
 
@@ -125,7 +125,7 @@ If this is a cool project or something which I believe could grow into
 something much bigger, then I would like to keep engaged with the community,
 potentially help out or get more involved as the project grows. 
 
-## API Users
+### API Users
 
 **Context**
 
@@ -152,7 +152,7 @@ and so they’re looking for the most cost-effective way of getting it done.
 RPI’s simple and approachable API gives them a dopamine hit because they
 immediately get it.
 
-## Other Data Token Platforms
+### Other Data Token Platforms
 
 **Context**
 
@@ -186,7 +186,7 @@ there in the future. Still, currently Other Data Platforms are struggling to
 partner with RPI as it's not a legally incorporated company and since the value
 proposition of their investment is unclear.
 
-## Ocean DAO Members
+### Ocean DAO Members
 
 **Context**
 
@@ -219,7 +219,7 @@ number of participants in the OceanDAO, members are starting to get less chance
 to do proper due diligence. They may also simply vote to burn Oceans if they
 see no proper engagement.
 
-## Data Providers
+### Data Providers
 
 **Context**
 
@@ -253,7 +253,7 @@ significance as it directs lots of attention and clicks to their web presence
 (Click through rate). Additionally, RPI can serve as an additional benchmark
 for how well a data provider's token is doing in the overall market.
 
-## Data Buyers
+### Data Buyers
 
 **Context**
 
