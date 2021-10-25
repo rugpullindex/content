@@ -1,5 +1,79 @@
 # Blog
 
+## October 25, 2021
+
+- Speed-up crawling on-chain pricing of assets through parallelization
+
+## Thank you, next (problem)!
+### October 23, 2021
+It's an incredible thing to say, but I think we're getting close to our first
+anniversary. That's incredible but serves in this post merely as a hook for the
+topic I'd like to write about.
+
+This being the increasing throughput of problems I have to face on a daily
+basis to drive the project further. 
+
+Just last year, there weren't merely any. I was working on
+the thing myself, and also, for the first few months, I
+didn't even get paid to host the site.
+
+Now, this has changed drastically and so today RPI contracts a surprising 4
+people part-time. We have 49 members on our Discord - and even without me
+ranting on Telegram - we have a steady influx of users to our site.
+We've got about 15 applications for a more than sparse hiring appeal on HN's
+"who's hiring?" thread, and last round, something like 5 million USD voted YES
+on us.
+
+All of this is pretty bonkers, particularly when scrolling down and looking at
+some of the old posts and the sentiment I had just months ago.
+
+But in that time, and especially now that the dust has settled after last
+month's round, I've come to realize (or accept) my faith as a project founder.
+Building and shipping, keeping things going is basically just handling a stream
+of never-ending problems flying towards you.
+
+It's daunting. Sometimes it's crazy scary. But also, many times, it's
+incredibly rewarding and fun.
+
+For me, when I don't code: It has also become more difficult to track and
+understand progress. It's almost like being the frog in the pan that gets
+boiled. Without the boiling part, maybe (/hopefully).
+
+You solve problems and work to make things happen, and those things do happen,
+but somehow you also don't understand what changed. It's almost like being
+blind.  Worse, it's like seeing but not being able to interpret. Dream-ish.
+
+I don't dread this experience - so far, I've come to enjoy it. But I've become
+more anxious about the project's future and the fact that I seem to carry much
+more responsibility than I had imagined.
+
+It's really weird and may also sound tone-deaf for some users not being
+involved in our production process. The website's still the same. Everything
+looks as it "always has."
+
+But looking internally, things are shifting at incredible speed, and measures
+are being taken daily to grow and improve. 
+
+I'm overwhelmed by the passion and precision of our contributors and by how
+they pump out knowledge, insights, and code continuously. It's nuts!
+
+So maybe all these words had the following purpose: To thank everyone that has
+helped and believed in Rug Pull Index over the last year.
+
+I'm grateful for you to be with us, and I'm in joy seeing that we share ideas
+and goals. I'm curious as ever to see where we'll go!
+
+Thank you!
+
+## October 20, 2021
+
+- Connect
+  [rugpullindex/design-system](https://github.com/rugpullindex/design-system)
+  with backend server as a [git
+  submodule](https://git-scm.com/book/de/v2/Git-Tools-Submodule).
+- Publish svg-line-chart@0.3.1 and start using it in RPI backend
+- Link on token symbol name now leads to token address page on Etherscan
+
 ## User Profiles & Motivations in the Ocean Ecosystem
 ### October 18, 2021
 
@@ -21,7 +95,7 @@ The 8 user profiles are:
 *Written by [Scott Milat](https://www.scottmilat.com) & [Tim
 Daubenschuetz](https://timdaub.github.io/)*
 
-### Ocean Stakers
+#### Ocean Stakers
 
 **Context** 
 
@@ -61,7 +135,7 @@ get into something in the hopes of generating a good ROI.
 * Which columns do I care about?
 * How can I learn more about this?
 
-### Data Token Investors
+#### Data Token Investors
 
 **Context**
 
@@ -102,7 +176,7 @@ get into something in the hopes of generating a good ROI.
 * Which columns do I care about?
 * How can I learn more about this?
 
-### RPI Community Members
+#### RPI Community Members
 
 **Context**
 
@@ -125,7 +199,7 @@ If this is a cool project or something which I believe could grow into
 something much bigger, then I would like to keep engaged with the community,
 potentially help out or get more involved as the project grows. 
 
-### API Users
+#### API Users
 
 **Context**
 
@@ -152,7 +226,7 @@ and so they’re looking for the most cost-effective way of getting it done.
 RPI’s simple and approachable API gives them a dopamine hit because they
 immediately get it.
 
-### Other Data Token Platforms
+#### Other Data Token Platforms
 
 **Context**
 
@@ -186,7 +260,7 @@ there in the future. Still, currently Other Data Platforms are struggling to
 partner with RPI as it's not a legally incorporated company and since the value
 proposition of their investment is unclear.
 
-### Ocean DAO Members
+#### Ocean DAO Members
 
 **Context**
 
@@ -219,7 +293,7 @@ number of participants in the OceanDAO, members are starting to get less chance
 to do proper due diligence. They may also simply vote to burn Oceans if they
 see no proper engagement.
 
-### Data Providers
+#### Data Providers
 
 **Context**
 
@@ -253,7 +327,7 @@ significance as it directs lots of attention and clicks to their web presence
 (Click through rate). Additionally, RPI can serve as an additional benchmark
 for how well a data provider's token is doing in the overall market.
 
-### Data Buyers
+#### Data Buyers
 
 **Context**
 
@@ -327,18 +401,18 @@ That's all. Thanks for reading.
 Best,
 Tim
 
-### October 8, 2021
+## October 8, 2021
 
 - We're in the process of [open
   sourcing](https://github.com/rugpullindex/design-system) our front end design
   system
 - The website design changed
 
-### September 29, 2021
+## September 29, 2021
 
 - Add color theme
 
-### September 28, 2021
+## September 28, 2021
 
 - Increase estate to activate nagivation expansion on mobile
 - Add prominent call to action to navigation bar ("join our Discord")
@@ -479,10 +553,6 @@ the anti-company has no sense of urgency, deadlines, or future expectations. It
 just **is and was**; it never _will be_.
 
 An anti-company is not a startup.
-
-
-
-
 
 ## September 20, 2021
 
