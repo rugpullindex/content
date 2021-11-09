@@ -1,5 +1,11 @@
 # Blog
 
+## November 9, 2021
+
+- We won the OceanDAO R11 🎊 thanks for voting.
+- We've completely open sourced all our [content
+  system](https://github.com/rugpullindex/content-system).
+
 ## November 7, 2021
 
 - Fix [font rendering
