@@ -104,21 +104,27 @@ $ curl \
 
 ## GET Historical Price Data by DID
 
-- Endpoint: `/prices?did=&start=&end=&currency=`
+- Endpoint: `/prices?did=&start=&end=&currency=&resolution=`
 - Authorization required: yes, **but please reach out if you want to use it.**
 - Rate limiting: no
 
 **Description:** Given an asset's DID, this endpoint returns a list of prices
-for a date range (between `start` and `end`). rugpullindex has recorded the
-prices of all OCEAN assets since January 1, 2021. We've started recording the
-prices of BDP assets on May 5, 2021. We fetch price data once a day, hence
-the endpoint's resolution is about 1 day. All prices are either in EUR or USD.
+for a date range (between `start` and `end`). rugpullindex has recorded 
+
+- the daily prices of all OCEAN assets since January 1, 2021;
+- the daily prices of all BDP assets since May 5, 2021
+- the hourly prices of all OCEAN & BDP assets since November 8, 2021.
+
+We fetch price data hourly. Prices can be displayed in EUR, USD or the
+protocol's base currency `ocean-protocol` and `big-data-protocol`.
 
 **Notes:**
 
 - `currency` must be either `usd`, `eur`, `ocean-protocol` or
   `big-data-protocol`.
 - `start` and `end` MUST be ISO8601-compliant dates
+- `resolution` must be either `1h` or `1d`. It can also be omitted, but the
+  default value is then `1d`.
 
 **Request:**
 ```bash

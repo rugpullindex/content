@@ -2,8 +2,10 @@
 
 ## November 10, 2021
 
-- Allow querying [historical price API
-  endpoint](/docs#GETHistoricalPriceDatabyDID) with `currency=ocean-protocol`.
+- For [historical price API
+  endpoint](/docs#GETHistoricalPriceDatabyDID):
+  - allow querying with e.g. `currency=ocean-protocol`.
+  - introduce `resolution=1d` and `resolution=1h` options.
 
 ## November 9, 2021
 
