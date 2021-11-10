@@ -1,10 +1,17 @@
 # Blog
 
+## November 10, 2021
+
+- Allow querying [historical price API
+  endpoint](/docs#GETHistoricalPriceDatabyDID) with `currency=ocean-protocol`.
+
 ## November 9, 2021
 
 - We won the OceanDAO R11 🎊 thanks for voting.
 - We've completely open sourced all our [content
   system](https://github.com/rugpullindex/content-system).
+- Fix historical price API endpoint and [chart rendering
+  issue](https://github.com/rugpullindex/svg-line-chart/issues/36).
 
 ## November 7, 2021
 

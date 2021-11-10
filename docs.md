@@ -116,7 +116,8 @@ the endpoint's resolution is about 1 day. All prices are either in EUR or USD.
 
 **Notes:**
 
-- `currency` must be either `usd` or `eur`.
+- `currency` must be either `usd`, `eur`, `ocean-protocol` or
+  `big-data-protocol`.
 - `start` and `end` MUST be ISO8601-compliant dates
 
 **Request:**
