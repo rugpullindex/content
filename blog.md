@@ -1,5 +1,10 @@
 # Blog
 
+## November 15, 2021 Devlog
+
+- To increase a page's sharability, we're now getting its social preview
+  description directly from the file's content.
+
 ## Marketing Week
 ### November 15, 2021
 
