@@ -4,6 +4,10 @@
 
 - To increase a page's sharability, we're now getting its social preview
   description directly from the file's content.
+- Visualize "Score" and "Inequality" column values on main page as circular
+  spectrums. Thanks for the feedback to Andrei from Stuttgart and thanks to
+  il3ven for the
+  [implementation](https://github.com/rugpullindex/design-system/pull/14).
 
 ## Marketing Week
 ### November 15, 2021
