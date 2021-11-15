@@ -12,11 +12,11 @@ of [DataUnion.app](https://dataunion.app/) (QUICRA-0),
 ## Technical Details
 
 We crawl all of Ocean Protocol's data markets on a daily basis.  All data
-markets are then ranked relatively to their market's liqudity and by how equal
+markets are then ranked relatively to their market's liqudity and by how uniform
 the market's stake is distributed among liquidity providers (we use a [gini
 coefficient](https://en.wikipedia.org/w/index.php?title=Gini_coefficient&oldid=985147212)).
 
-What you can see the result on the front page: The best data sets are ranked
+You can see the result on the front page: The best data sets are ranked
 highest.
 
 ## Vision
