@@ -22,6 +22,12 @@ module.exports = {
         lastMod: "never"
       }
     },
+    "/changelog": {
+      sitemap: {
+        lastMod: statSync(path.resolve(__dirname, "changelog.md")).mtime,
+        changeFreq: "daily"
+      }
+    },
     "/about": {
       title: "About Us",
       sitemap: {
