@@ -98,6 +98,64 @@ data, is it helpful?
 
 ## Relevancy of Data
 
+Data, as other information has a quality we herein call "relevancy." It defines
+the usefulness and applicability of the data within the temporal or situational
+context.
+
+Data about US voters in the 2016 election has commonly been made out to be
+"highly relevant" in influencing the vote's outcome and potentially upfront
+manipulating voters. Known as the "Cambridge Analytica Data Set", it was
+described as predictive for the persuasibility of certain voters in the United
+States.
+
+It was later argued, that indeed the same data set was also used to a degree in
+the UK's Brexit referendum.
+
+In both cases, we'd say that Cambridge Analytica's data set was highly relevant
+for pursuaiting voters in the UK and US. This quality, we believe, is important
+to highlight as it portraits specificity.
+
+## Is Data Heterogenius?
+
+Looking at the data offerings of the Ocean Protocol Marketplace today, we can
+easily see their variability. Behind QUICRA-0 seems to be the promise of an
+ever-growing data set through unionizing data annotation workers, whereas
+LUMSTA-42 can potentially represent a clearly tangible `.zip` or `.csv` file
+containing a list of all products from amazon.com in 2018.
+
+
+Other popular online marketplaces like Uber, AirBnB or Lyft don't share this
+type of offering. Neatly, their markets are divided in suppliers and consumers,
+with - in the case of Uber and Lyft - all offerings being homogenious, hence,
+equal or fungible. 
+
+In theory, which one of the many Uber taxis you get must not make a difference
+in service quality. Or at least that's Uber Inc's designated goal.
+
+AirBnB's marketplace is somewhat similar in that AirBnB Inc's goal is to
+guarantee a threshold of quality to any consumer. They make sure that "what you
+book is what you get."
+
+Famously, the story for AirBnB goes that demand increased when Paul Graham
+suggested AirBnB's founders to improve the site's pictures that are shown to
+potential customers.
+
+As the quality for an AirBnB can greatly vary given e.g. an offer's pricing, to
+improve the market's quality, Paul Graham righly suggested creating more
+transparency within the market to ease consumer's decision making. The idea
+being that in the ideal case a consumer knows "everything" and its price about
+an apparentment, then they are more capable of making a decision compared to
+when they know only the price but nothing else.
+
+Similarly, we believe, an distinction about a data's quality and the associated
+risk why buying it has to be made. Today's data on today's Ocean Marketplace is
+extremely heterogenius: There are not two alike data sets.
+
+Compared to some of the quoted prices, the level of due diligence data
+consumers are capable of doing is low and hence the risk of "buying a cat in a
+bag" is high.
+
+
 ## Forms of Manipulation
 
 ### Mining
