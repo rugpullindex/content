@@ -115,7 +115,7 @@ In both cases, we'd say that Cambridge Analytica's data set was highly relevant
 for pursuaiting voters in the UK and US. This quality, we believe, is important
 to highlight as it portraits specificity.
 
-## Is Data Heterogenius?
+## Is Data Heterogeneous?
 
 Looking at the data offerings of the Ocean Protocol Marketplace today, we can
 easily see their variability. Behind QUICRA-0 seems to be the promise of an
