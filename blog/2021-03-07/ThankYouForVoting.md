@@ -1,5 +1,6 @@
-## Thank You For Voting
-### Mar 7, 2021
+title: Thank You For Voting
+
+---
 
 On Friday, March 5, 2021, OceanDAO's round 3 vote finished. If you browsed the
 website last week, you might have noticed the yellow call-for-votes I had put

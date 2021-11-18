@@ -1,5 +1,5 @@
-## We're NOT A Startup
-### September 21, 2021
+title: We're NOT A Startup
+---
 
 In less than two months, on November 13, 2021, RPI will celebrate its first
 anniversary. Being someone that loves playing around with ideas and never

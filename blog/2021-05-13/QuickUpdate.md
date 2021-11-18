@@ -1,5 +1,5 @@
-## Quick Update
-### May 13, 2021
+title: Quick Update
+---
 
 Here's a quick update on the things that I've been up to in the last few
 days:

@@ -1,5 +1,6 @@
-## Thank you, next (problem)!
-### October 23, 2021
+title: Thank you, next (problem)!
+---
+
 It's an incredible thing to say, but I think we're getting close to our first
 anniversary. That's incredible but serves in this post merely as a hook for the
 topic I'd like to write about.

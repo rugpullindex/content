@@ -1,5 +1,5 @@
-## On The Value Of Product And Distribution
-### July 29, 2021
+title: On The Value Of Product And Distribution
+---
 
 Quite some time has passed since I last wrote a coherent article on this blog.
 Most updates since the big "[Build on Stolen Data](#BuiltonStolenData) " post

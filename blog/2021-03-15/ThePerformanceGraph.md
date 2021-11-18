@@ -1,5 +1,5 @@
-## The Performance Graph
-### March 15, 2021
+title: The Performance Graph
+---
 
 In [OceanDAO Round
 3](https://port.oceanprotocol.com/t/rugpullindex-com-round-3-proposal/434), I

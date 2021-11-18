@@ -1,5 +1,5 @@
-## Marketing Week
-### November 15, 2021
+title: Marketing Week
+---
 
 It's "Marketing Week", y'all!
 

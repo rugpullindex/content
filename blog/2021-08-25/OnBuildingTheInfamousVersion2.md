@@ -1,5 +1,5 @@
-## On Building The Infamous "Version 2"
-### August 25, 2021
+title: On Building The Infamous "Version 2"
+---
 
 The last month or so has been frustrating to develop RPI. I'd say there are a
 couple of reasons that I'd like to pinpoint and address in this post. Firstly,

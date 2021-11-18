@@ -1,5 +1,5 @@
-## How "Plausible" are Our Website Analytics
-### May 26, 2021
+title: How "Plausible" are Our Website Analytics
+---
 
 From rugpullindex's first days, I made its website analytics
 [public](https://github.com/oceanprotocol/multi-repo-issue/issues/30#issuecomment-726857582)

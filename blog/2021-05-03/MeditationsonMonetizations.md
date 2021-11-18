@@ -1,5 +1,5 @@
-## Meditations on Monetizations
-### May 3, 2021
+title: Meditations on Monetizations
+---
 
 Hi yall,
 

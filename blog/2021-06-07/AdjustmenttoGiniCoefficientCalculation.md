@@ -1,5 +1,5 @@
-## Adjustment to Gini Coefficient Calculation
-### June 7, 2021
+title: Adjustment to Gini Coefficient Calculation
+---
 
 Hi there,
 

@@ -1,5 +1,5 @@
-## The Algorithm; It's Working!
-### Feb 23, 2021
+title: The Algorithm; It's Working!
+---
 
 On Feb 18, 2021, the maintainer of the "[Oceancap - Datapool Evaluation and
 Charting"

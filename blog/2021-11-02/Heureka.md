@@ -1,5 +1,5 @@
-## Heureka!
-### November 2, 2021
+title: Heureka!
+---
 
 Countless times throughout maintaining this document, I've worried about the
 sustainability of our project. I said that I'd like to diversify income streams

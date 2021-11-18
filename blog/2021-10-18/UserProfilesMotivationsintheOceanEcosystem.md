@@ -1,5 +1,5 @@
-## User Profiles & Motivations in the Ocean Ecosystem
-### October 18, 2021
+title: User Profiles & Motivations in the Ocean Ecosystem
+---
 
 The below outlines 8 types of users for rugpullindex.com. 
 

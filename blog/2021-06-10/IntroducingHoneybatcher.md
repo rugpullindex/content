@@ -1,5 +1,5 @@
-## Introducing Honeybatcher
-### June 10, 2021
+title: Introducing Honeybatcher
+---
 
 In several previous updates, I talked about how difficult it is for RPI to
 monetize considering the uncertainty surrounding Ethereum gas prices. A few

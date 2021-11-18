@@ -1,5 +1,5 @@
-## Termux Maintenance
-### April 5, 2021
+title: Termux Maintenance
+---
 
 I felt stressed before easter. Through COVID lockdowns and all, I ended up
 mostly working anyways. I mean, there isn't much more to do really. But then

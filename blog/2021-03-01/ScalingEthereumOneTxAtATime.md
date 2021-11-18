@@ -1,5 +1,6 @@
-## Scaling Ethereum One Tx At A Time
-### Mar 1, 2021
+title: Scaling Ethereum One Tx At A Time
+
+---
 
 With regards to building rugpullindex.com, there are currently two problems
 bugging me. One is that gas prices on the main net are insanely high right

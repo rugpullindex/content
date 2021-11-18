@@ -1,5 +1,5 @@
-## RPI Vision and Goals for Current and Future Contributors and Community Members
-### November 16, 2021
+title: RPI Vision and Goals for Current and Future Contributors and Community Members
+---
 
 The below document outlines the most recent vision, goals and key metrics for the RPI project. 
 

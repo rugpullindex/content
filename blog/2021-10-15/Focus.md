@@ -1,5 +1,5 @@
-## Focus
-### October 15, 2021
+title: Focus
+---
 
 In turbulent times, I sometimes tend to undervalue focus. Some people value
 focus much more than I do. I think focus is worthless when there's no

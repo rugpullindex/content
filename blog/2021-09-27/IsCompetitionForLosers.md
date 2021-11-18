@@ -1,5 +1,5 @@
-## Is Competition For Losers?
-### September 27, 2021
+title: Is Competition For Losers?
+---
 
 A common believe in the startup scene is that competition is for losers and
 that one always should setup shop in a "[blue

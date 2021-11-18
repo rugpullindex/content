@@ -1,5 +1,5 @@
-## Improving the Gini Coefficient Formula's Accuracy
-### August 2, 2021
+title: Improving the Gini Coefficient Formula's Accuracy
+---
 
 Just a few days ago, to my big surprise, Vitalik released a blog post about
 a topic critical to the functioning of Rug Pull Index. A blog post titled:

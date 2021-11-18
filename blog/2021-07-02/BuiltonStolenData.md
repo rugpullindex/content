@@ -1,5 +1,5 @@
-## Built on Stolen Data
-### July 2, 2021
+title: Built on Stolen Data
+---
 
 A few days ago, GitHub released a new tool for developers called
 [CoPilot](https://copilot.github.com/).  It's a software plugin for text

@@ -1,5 +1,5 @@
-## Loadtests on Erigon Node
-### August 17, 2021
+title: Loadtests on Erigon Node
+---
 
 Since we're dogfooding our latest addition to the RPI API, namely its [shared
 Erigon node](/docs#AccessToOurEthereumErigonNode), we found a performance
