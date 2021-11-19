@@ -23,6 +23,7 @@ module.exports = {
       }
     },
     "/changelog": {
+      title: "Changelog",
       sitemap: {
         lastMod: statSync(path.resolve(__dirname, "changelog.md")).mtime,
         changeFreq: "daily"
