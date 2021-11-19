@@ -12,6 +12,9 @@
   - Post titles are now search engine optimized, e.g.
     `/blog/2021-11-15/marketing-week`.
   - All changes were also reflected in the [sitemap.xml](/sitemap.xml).
+- In the frontpage's table, instead of color coding links to data sets,
+  indicate marketplace with logo.
+  [PR](https://github.com/rugpullindex/design-system/pull/21).
 
 ## November 15, 2021
 
