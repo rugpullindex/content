@@ -100,7 +100,7 @@ G = \frac{PD}{PD_{T}}
 $$
 
 Additionally, since we've discovered [an unfair
-advantage](/blog#AdjustmenttoGiniCoefficientCalculation) for pools with many
+advantage](/blog/2021-06-07/adjustment-to-gini-coefficient-calculation) for pools with many
 small liquidity providers, for data sets with **greater than** 100 liquidity
 providers we only consider pool shares of **more than** 0.1% in the above
 calculation. For pools with **less than** 100 LPs, a stake counts towards the

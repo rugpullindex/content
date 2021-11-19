@@ -1,4 +1,5 @@
 title: Termux Maintenance
+oldTitle: TermuxMaintenance
 ---
 
 I felt stressed before easter. Through COVID lockdowns and all, I ended up

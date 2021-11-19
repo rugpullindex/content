@@ -1,4 +1,5 @@
 title: Heureka!
+oldTitle: Heureka
 ---
 
 Countless times throughout maintaining this document, I've worried about the
@@ -11,7 +12,7 @@ that didn't get it at all.
 Today, I'd like to proudly say that I think we have found the strongest
 rationale for continuing the project so far. But first, the context:
 
-Already in [December 2020](#16122020), I decided to add badges to
+Already in [December 2020](/changelog#16122020), I decided to add badges to
 rugpullindex.com that'd allow a data publisher to include their rank in the
 description on the Ocean Protocol marketplace. Here's how that badge looks:
 
@@ -81,7 +82,7 @@ included the badge; those being: INVBAR-10, INCSQU-53, EXCANE-93, QUICRA-0
 
 We can plot all shields.io requests vs time in a graph:
 
-![Shields.io Ocean Protocol Marketplace Visitors](shieldio-requests-op-marketplace.png)
+![Shields.io Ocean Protocol Marketplace Visitors](/shieldio-requests-op-marketplace.png)
 
 With this, I think we can already classify the popularity of
 [market.oceanprotocol.com](https://market.oceanprotocol.com) website relatively
@@ -128,7 +129,7 @@ their site.
 
 So I downloaded the data and plotted it too:
 
-![Outbound clicks from rugpullindex.com to Ocean Protocol marketplace](outbound-clicks-op-marketplace.png)
+![Outbound clicks from rugpullindex.com to Ocean Protocol marketplace](/outbound-clicks-op-marketplace.png)
 
 We can see that it's much sparser. Initially, I was like: "OK, now that we have
 two independent data sets: Why don't we just assume that their addition is the
@@ -139,13 +140,13 @@ each row, it adds the outbound clicks and the shield.io requests for a "fuller"
 distribution of the simulated Ocean marketplace website visitor data set.
 Here's it plotted too:
 
-![Inferred OP marketplace visitors](inferred-op-marketplace-visitors.png)
+![Inferred OP marketplace visitors](/inferred-op-marketplace-visitors.png)
 
 I was happy as it ended up looking much better, and so, logically, I then
 continued by trying to extract the hourly visitors to rugpullindex.com's main
 page "/". The next graph gives an overview of that:
 
-![rugpullindex.com "/" page visitors](rpi-root-page-visitors.png)
+![rugpullindex.com "/" page visitors](/rpi-root-page-visitors.png)
 
 Lastly, I wanted to find out how strongly Ocean Protocol's marketplace and
 rugpullindex.com visitors are connected. I calculated a Pearson correlation

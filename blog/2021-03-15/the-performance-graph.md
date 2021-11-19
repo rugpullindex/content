@@ -1,4 +1,5 @@
 title: The Performance Graph
+oldTitle: ThePerformanceGraph
 ---
 
 In [OceanDAO Round
@@ -8,7 +9,7 @@ performance. But for the last month or so, most of the changelog I published on
 the blog was about improving database queries. Indeed, I had to adjust all of
 those to show the following graph today:
 
-![](./firstperformancetry.png)
+![](/firstperformancetry.png)
 
 Here, you can see a first try at displaying the index's performance starting on
 February 15, 2021, to March 15, 2021. X-axis showing the dates of measurement,

@@ -1,4 +1,5 @@
 title: Marketing Week
+oldTitle: MarketingWeek
 ---
 
 It's "Marketing Week", y'all!
@@ -40,7 +41,7 @@ An interesting discussion between a fellow HN user and me ensued and it kind of
 threw me back to when I read "Start Small, Stay Small: A Developer's Guide to
 Launching a Startup" by Rob Walling. In a post from July this year, titled ["On
 The Value Of Product And
-Distribution"](#OnTheValueOfProductAndDistribution) I
+Distribution"](/blog/2021-07-29/on-the-value-of-product-and-distribution) I
 had even written about some of those ideas. Given that our recent SEO had high
 efficacy, I want to double down on those efforts now.
 

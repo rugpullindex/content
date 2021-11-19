@@ -1,4 +1,5 @@
 title: Adjustment to Gini Coefficient Calculation
+oldTitle: AdjustmenttoGiniCoefficientCalculation
 ---
 
 Hi there,
@@ -11,7 +12,7 @@ owning 98% of its pool. Below is a picture of VORSTA-2's share distribution. I
 don't think there's a lot of math needed to understand that this pool has no
 equal distribution of liquidity.
 
-![](./vorsta2.png)
+![](/vorsta2.png)
 
 When I implemented the gini coefficient score at the end of last year, I
 defaulted to [a formula from
@@ -19,7 +20,7 @@ Wikipedia](https://en.wikipedia.org/w/index.php?title=Gini_coefficient&oldid=101
 that uses the income distribution of a population and a relative mean for the
 incomes' absolute differences (see below).
 
-![](./giniformula.png)
+![](/giniformula.png)
 
 Essentially, it compares each LP's stake in the pool and then divides (roughly)
 by the mean stake. For VORSTA-2 (and similar ones), the formula allowed it to

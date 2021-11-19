@@ -1,4 +1,5 @@
 title: We're NOT A Startup
+oldTitle: WereNOTAStartup
 ---
 
 In less than two months, on November 13, 2021, RPI will celebrate its first
@@ -11,7 +12,7 @@ GitHub and thought, "[Hey, that's something I wanna work
 on.](https://github.com/oceanprotocol/multi-repo-issue/issues/30#issuecomment-726857582)"
 And so, just a few days later, the first version of rugpullindex.com went
 online. In fact, if you keep scrolling down on this page, you'll find that
-[very first entry](#13112020) I made on November 13, 2021, on this document.
+[very first entry](/changelog#13112020) I made on November 13, 2021, on this document.
 
 During those days, I set out to solve a specific problem that the Ocean
 Protocol community had: I wanted to enable users to stake OCEAN with less rug

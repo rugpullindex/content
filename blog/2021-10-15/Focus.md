@@ -1,4 +1,5 @@
 title: Focus
+oldTitle: Focus
 ---
 
 In turbulent times, I sometimes tend to undervalue focus. Some people value

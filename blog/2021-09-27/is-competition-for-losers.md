@@ -1,4 +1,5 @@
 title: Is Competition For Losers?
+oldTitle: IsCompetitionForLosers
 ---
 
 A common believe in the startup scene is that competition is for losers and

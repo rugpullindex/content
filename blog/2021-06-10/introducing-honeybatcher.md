@@ -1,4 +1,5 @@
 title: Introducing Honeybatcher
+oldTitle: IntroducingHoneybatcher
 ---
 
 In several previous updates, I talked about how difficult it is for RPI to

@@ -1,4 +1,5 @@
 title: User Profiles & Motivations in the Ocean Ecosystem
+oldTitle: UserProfilesMotivationsintheOceanEcosystem
 ---
 
 The below outlines 8 types of users for rugpullindex.com. 

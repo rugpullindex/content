@@ -1,4 +1,5 @@
 title: Generating valuable insights from speaking with RPI users
+oldTitle: GeneratingvaluableinsightsfromspeakingwithRPIusers
 ---
 
 #### Long time listener, first time caller
@@ -64,7 +65,7 @@ I then added these to the table below and prioritised them using the [RICE
 prioritisation
 framework](https://blog.intercom.io/rice-simple-prioritization-for-product-managers). 
 
-![](rice1.png)
+![](/rice1.png)
 
 This helped us identify the relative priority of the various tasks at hand and
 plan accordingly. 
@@ -72,7 +73,7 @@ plan accordingly.
 The 9 items have been broken down further into a Now, Next, Later table
 enabling us to be clear on the areas of focus. 
 
-![](rice2.png)
+![](/rice2.png)
 
 It's unlikely we will follow this table completely as things will inevitably
 change over time. However, this does give us a great foundation to build upon

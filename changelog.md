@@ -434,7 +434,7 @@ Tonight the crawler threw an error when retrieving the top holders of
 `0x5e9939f6D959ffE9B328243DfaDBEED9C46ac197` (token: EXCANE-93). Below is an
 image of the API service's logs.
 
-![](./excane-93-error.jpg)
+![](/excane-93-error.jpg)
 
 You can see that the request stopped working tonight and instead threw a 400
 error. For now, I've added an exception route that allows the crawler to

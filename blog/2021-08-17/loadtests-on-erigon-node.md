@@ -1,4 +1,5 @@
 title: Loadtests on Erigon Node
+oldTitle: LoadtestsonErigonNode
 ---
 
 Since we're dogfooding our latest addition to the RPI API, namely its [shared

@@ -1,4 +1,5 @@
 title: Quick Update
+oldTitle: QuickUpdate
 ---
 
 Here's a quick update on the things that I've been up to in the last few

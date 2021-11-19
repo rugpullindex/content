@@ -1,4 +1,5 @@
 title: Meditations on Monetizations
+oldTitle: MeditationsonMonetizations
 ---
 
 Hi yall,

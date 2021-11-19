@@ -1,8 +1,9 @@
 title: On The Value Of Product And Distribution
+oldTitle: OnTheValueOfProductAndDistribution
 ---
 
 Quite some time has passed since I last wrote a coherent article on this blog.
-Most updates since the big "[Build on Stolen Data](#BuiltonStolenData) " post
+Most updates since the big "[Build on Stolen Data](/blog/2021-07-02/built-on-stolen-data)" post
 have been minor development updates. And so, I'm scared that it may look like
 the project has stalled from an external point of view. No new blog posts, no
 new software updates - It must mean the project's dead.

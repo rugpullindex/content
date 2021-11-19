@@ -1,4 +1,5 @@
 title: How "Plausible" are Our Website Analytics
+oldTitle: HowPlausibleareOurWebsiteAnalytics
 ---
 
 From rugpullindex's first days, I made its website analytics
@@ -14,17 +15,18 @@ Recently, however, I became aware of a problem with plausible's web analytics,
 that I believe is important to share here. It has to do with the fact that
 many ad blockers are now blocking plausible's tracking script.
 
-If we take a look to [RPI's six month unique visitors](https://plausible.io/privacy-focused-web-analytics),
-we just see that its been fairly stable. Between February and May, there's been
-roughly the same amount of unique users per month (around 500).
+If we take a look to [RPI's six month unique
+visitors](https://plausible.io/privacy-focused-web-analytics), we just see that
+its been fairly stable. Between February and May, there's been roughly the same
+amount of unique users per month (around 500).
 
-![](./plausiblesixmonths.png)
+![](/plausiblesixmonths.png)
 
 We can also look at pausible's 30 day view to get a feeling of how many unique
 users visited in the last 30 days:
 
 
-![](./plausiblemonthly.png)
+![](/plausiblemonthly.png)
 
 Indeed, the stats look plausible. Since I started to deliver my website through
 [Cloudflare on April 21,
@@ -32,7 +34,7 @@ Indeed, the stats look plausible. Since I started to deliver my website through
 however, I noticed a large deviation on _their_ website analytics frontend for
 the same timeframe.
 
-![](./cloudflaremonthly.png)
+![](/cloudflaremonthly.png)
 
 While plausible logs 596 unique visitors, Cloudflare displays 2,81k! I found
 this difference quite interesting, given that both services use a completely
@@ -54,7 +56,7 @@ Seeing this, I thought it may be interesting to compare both sets of data
 side-by-side and so I did using a [Google
 Spreadsheet](https://docs.google.com/spreadsheets/d/11yuzMx6os9cH2KJwMKmEvpNOy1vIABl--EqklYgxnDE/edit#gid=0):
 
-![](plausiblestatschart.png)
+![](/plausiblestatschart.png)
 
 And, indeed, the difference is huge. But it makes sense. According to some
 napkin math, Cloudflare has counted 87% more unique daily users on average than

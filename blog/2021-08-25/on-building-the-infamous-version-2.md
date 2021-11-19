@@ -1,4 +1,5 @@
 title: On Building The Infamous "Version 2"
+oldTitle: OnBuildingTheInfamousVersion2
 ---
 
 The last month or so has been frustrating to develop RPI. I'd say there are a

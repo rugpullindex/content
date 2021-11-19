@@ -1,5 +1,5 @@
 title: Scaling Ethereum One Tx At A Time
-
+oldTitle: ScalingEthereumOneTxAtATime
 ---
 
 With regards to building rugpullindex.com, there are currently two problems
@@ -46,7 +46,7 @@ easily send a [magnet
 link](https://en.wikipedia.org/w/index.php?title=Magnet_URI_scheme&oldid=999476988)
 to start syndicating files.
 
-![](./instant-screencap.png)
+![](/instant-screencap.png)
 
 In general, torrents have a rather bad reputation, mainly as they've been a
 driver of piracy in the past. However, speaking of their technical properties,

@@ -1,4 +1,5 @@
 title: Improving the Gini Coefficient Formula's Accuracy
+oldTitle: ImprovingtheGiniCoefficientFormulasAccuracy
 ---
 
 Just a few days ago, to my big surprise, Vitalik released a blog post about
