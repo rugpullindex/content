@@ -1,3 +1,18 @@
+# Changelog
+
+## November 19, 2021
+
+- Introducing an all new blogging system
+  - [/changelog](/changelog) is now separate from blog.
+  - All blog posts are listed on [/blog](/blog).
+  - Every post has their own site, e.g. [Heureka!](/blog/2021-11-02/Heureka).
+  - For all posts, old links, e.g.
+    [/blog#OnBuildingTheInfamousVersion2](/blog#OnBuildingTheInfamousVersion2)
+    still work. Links to changelog entries were broken.
+  - Post titles are now search engine optimized, e.g.
+    `/blog/2021-11-15/marketing-week`.
+  - All changes were also reflected in the [sitemap.xml](/sitemap.xml).
+
 ## November 15, 2021
 
 - To increase a page's sharability, we're now getting its social preview
