@@ -6,7 +6,7 @@ The below document outlines the most recent vision, goals and key metrics for th
 
 #### How this document came about
 
-The founding goal of rugpullindex.com was to reduce the risk of data token investors/stakers getting rugpulled.
+The founding goal of [rugpullindex.com](https://rugpullindex.com/about) was to reduce the risk of data token investors/stakers getting rugpulled.
 
 Since then, rugpullindex.com has undergone a number of updates and the project has welcomed many new contributors, community members and users. 
 
