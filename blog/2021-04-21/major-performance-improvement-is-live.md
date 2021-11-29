@@ -1,5 +1,7 @@
 title: Major Performance Improvement is Live
 oldTitle: MajorPerformanceImprovementisLive
+keywords: cache, speed, improvements, svg-line-chart
+authors: Tim Daubenschuetz
 ---
 
 Hey,

@@ -1,5 +1,8 @@
 title: The Performance Graph
 oldTitle: ThePerformanceGraph
+keywords: chart, historical performance, update
+authors: Tim Daubenschuetz
+image: https://rugpullindex.com/firstperformancetry.png
 ---
 
 In [OceanDAO Round

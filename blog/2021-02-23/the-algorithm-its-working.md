@@ -1,5 +1,7 @@
 title: The Algorithm; It's Working!
 oldTitle: TheAlgorithmItsWorking
+keywords: Oceancap, ADASTA-60, rank, market
+authors: Tim Daubenschütz
 ---
 
 On Feb 18, 2021, the maintainer of the "[Oceancap - Datapool Evaluation and

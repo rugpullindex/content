@@ -1,5 +1,7 @@
 title: Thank You For Voting
 oldTitle: ThankYouForVoting
+keywords: OceanDAO, proposal, vote
+authors: Tim Daubenschütz
 ---
 
 On Friday, March 5, 2021, OceanDAO's round 3 vote finished. If you browsed the

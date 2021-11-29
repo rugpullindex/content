@@ -1,5 +1,8 @@
 title: Scaling Ethereum One Tx At A Time
 oldTitle: ScalingEthereumOneTxAtATime
+keywords: WebRTC, WebTorrent, Web3
+authors: Tim Daubenschütz
+image: https://rugpullindex.com/instant-screencap.png
 ---
 
 With regards to building rugpullindex.com, there are currently two problems
