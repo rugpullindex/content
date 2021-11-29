@@ -1,5 +1,7 @@
 title: On The Value Of Product And Distribution
 oldTitle: OnTheValueOfProductAndDistribution
+keywords: product update, self hosting, design
+authors: Tim Daubenschütz
 ---
 
 Quite some time has passed since I last wrote a coherent article on this blog.

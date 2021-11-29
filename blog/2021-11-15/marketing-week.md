@@ -1,5 +1,7 @@
 title: Marketing Week
 oldTitle: MarketingWeek
+keywords: marketing, open source, growth
+authors: Tim Daubenschütz
 ---
 
 It's "Marketing Week", y'all!

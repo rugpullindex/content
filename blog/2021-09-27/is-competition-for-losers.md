@@ -1,5 +1,7 @@
 title: Is Competition For Losers?
 oldTitle: IsCompetitionForLosers
+keywords: peter thiel, competition, healthy competition
+authors: Tim Daubenschütz
 ---
 
 A common believe in the startup scene is that competition is for losers and

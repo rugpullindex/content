@@ -1,5 +1,7 @@
 title: Focus
 oldTitle: Focus
+keywords: strategy, API, metadata, funding
+authors: Tim Daubenschütz
 ---
 
 In turbulent times, I sometimes tend to undervalue focus. Some people value

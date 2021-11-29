@@ -1,5 +1,7 @@
 title: We're NOT A Startup
 oldTitle: WereNOTAStartup
+keywords: anti company, startup, operations, vision, mission
+authors: Tim Daubenschütz
 ---
 
 In less than two months, on November 13, 2021, RPI will celebrate its first

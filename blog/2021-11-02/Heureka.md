@@ -1,5 +1,8 @@
 title: Heureka!
 oldTitle: Heureka
+keywords: return on investment, ocean protocol, analytics, outbound clicks
+authors: Tim Daubenschütz
+image: https://rugpullindex.com/shieldio-requests-op-marketplace.png
 ---
 
 Countless times throughout maintaining this document, I've worried about the

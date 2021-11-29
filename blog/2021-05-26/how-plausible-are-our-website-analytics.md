@@ -1,5 +1,8 @@
 title: How "Plausible" are Our Website Analytics
 oldTitle: HowPlausibleareOurWebsiteAnalytics
+keywords: analytics, plausible, cloudflare, vistors, tracking
+image: https://rugpullindex.com/plausiblesixmonths.png
+authors: Tim Daubenschütz
 ---
 
 From rugpullindex's first days, I made its website analytics

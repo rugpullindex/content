@@ -1,5 +1,7 @@
 title: Thank you, next (problem)!
 oldTitle: Thankyounextproblem
+keywords: progress, rug pull index, overcoming problems, work at RPI
+authors: Tim Daubenschütz
 ---
 
 It's an incredible thing to say, but I think we're getting close to our first

@@ -1,5 +1,7 @@
 title: Improving the Gini Coefficient Formula's Accuracy
 oldTitle: ImprovingtheGiniCoefficientFormulasAccuracy
+keywords: gini coefficient, specification
+authors: Tim Daubenschütz
 ---
 
 Just a few days ago, to my big surprise, Vitalik released a blog post about

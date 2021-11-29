@@ -1,5 +1,7 @@
 title: Termux Maintenance
 oldTitle: TermuxMaintenance
+keywords: ssh, f-droid, holidays, easter, detox
+authors: Tim Daubenschuetz
 ---
 
 I felt stressed before easter. Through COVID lockdowns and all, I ended up

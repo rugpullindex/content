@@ -1,5 +1,7 @@
 title: On Building The Infamous "Version 2"
 oldTitle: OnBuildingTheInfamousVersion2
+keywords: version 2, v2, todo
+authors: Tim Daubenschütz
 ---
 
 The last month or so has been frustrating to develop RPI. I'd say there are a

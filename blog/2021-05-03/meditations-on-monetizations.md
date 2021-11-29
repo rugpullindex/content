@@ -1,5 +1,7 @@
 title: Meditations on Monetizations
 oldTitle: MeditationsonMonetizations
+keywords: OceanDAO, funding, capital, ads, income
+authors: Tim Daubenschütz
 ---
 
 Hi yall,
