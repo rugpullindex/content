@@ -1,5 +1,8 @@
 title: Generating valuable insights from speaking with RPI users
 oldTitle: GeneratingvaluableinsightsfromspeakingwithRPIusers
+keywords: users, feedback, business development
+image: https://rugpullindex.com/rice1.png
+authors: Scott Milat
 ---
 
 #### Long time listener, first time caller

@@ -1,5 +1,7 @@
 title: User Profiles & Motivations in the Ocean Ecosystem
 oldTitle: UserProfilesMotivationsintheOceanEcosystem
+keywords: user profiles, ocean ecosystem, stakers, investors, data providers, data buyers
+authors: Scott Milat, Tim Daubenschütz
 ---
 
 The below outlines 8 types of users for rugpullindex.com. 

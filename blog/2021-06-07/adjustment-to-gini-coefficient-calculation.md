@@ -1,5 +1,8 @@
 title: Adjustment to Gini Coefficient Calculation
 oldTitle: AdjustmenttoGiniCoefficientCalculation
+keywords: gini coefficient, ranking
+image: https://rugpullindex.com/vorsta2.png
+authors: Tim Daubenschütz
 ---
 
 Hi there,

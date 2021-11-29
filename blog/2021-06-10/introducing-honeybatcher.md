@@ -1,5 +1,6 @@
 title: Introducing Honeybatcher
 oldTitle: IntroducingHoneybatcher
+keywords: ethereum, rollup, gas fees, pessimistic rollup, EVM
 ---
 
 In several previous updates, I talked about how difficult it is for RPI to

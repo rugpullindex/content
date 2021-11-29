@@ -1,5 +1,7 @@
 title: Loadtests on Erigon Node
 oldTitle: LoadtestsonErigonNode
+keywords: ethereum, full node, benchmark
+authors: Tim Daubenschütz
 ---
 
 Since we're dogfooding our latest addition to the RPI API, namely its [shared

@@ -1,5 +1,7 @@
 title: Heureka!
 oldTitle: Heureka
+keywords: return on investment, ocean protocol, analytics, outbound clicks
+authors: Tim Daubenschütz
 ---
 
 Countless times throughout maintaining this document, I've worried about the

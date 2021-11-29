@@ -1,5 +1,7 @@
 title: Built on Stolen Data
 oldTitle: BuiltonStolenData
+keywords: github, copilot, gpl, open source, license
+authors: Tim Daubenschütz
 ---
 
 A few days ago, GitHub released a new tool for developers called
