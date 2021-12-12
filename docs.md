@@ -163,7 +163,7 @@ Wiki](https://eth.wiki/json-rpc/API).
 |url|`https://node.rugpullindex.com`|
 |authorization required?|yes|
 |rate limited?|no|
-|geth apis exposed|eth,web3,net|
+|geth apis exposed|eth,web3,net,txpool|
 
 Finally, an example using `curl`:
 
