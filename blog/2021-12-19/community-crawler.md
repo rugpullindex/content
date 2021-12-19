@@ -1,5 +1,6 @@
 title: Community Crawler
-author: Tim Daubenschütz
+authors: Tim Daubenschütz
+keywords: crawler, decentralization, closed source, open source, ethereum
 ---
 
 The community crawler is a project by rugpullindex.com making use of Ethereum's
