@@ -1,5 +1,22 @@
 # Changelog
 
+## December 19, 2021
+
+- The historical price endpoint slowed down given the increase of data we have
+  to process since crawling hourly. We've added additional indexes in our data
+  base to make API retrievals performant again.
+
+## December 17, 2021
+
+- Asset price calculations were broken when requesting the historical price of
+  a data token in e.g. the base currency `ocean-protocol`. We fixed the issue.
+
+## December 1, 2021
+
+- A missing price value on 2021-09-16 caused certain API requests in the
+  historical price API to fail. We clean up the data set and re-enable querying
+  for these time frames.
+
 ## November 19, 2021
 
 - Introducing an all new blogging system
