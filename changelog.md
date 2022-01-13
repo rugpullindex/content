@@ -1,5 +1,18 @@
 # Changelog
 
+## January 13, 2021
+
+First of all: Happy New Year.
+
+Changes:
+
+- We've added an endpoint to our API that allows you to request the historical
+  liquidity of each Ocean Protocol and BDP data set starting from January 1,
+  2021.
+- The endpoint is functionally equivalent to the `GET /prices` endpoint in that
+  e.g. the request's `resolution` and `currency` can be adjusted accordingly.
+- Check the [docs](/docs#GETHistoricalLiquidityDatabyDID) for more information.
+
 ## December 19, 2021
 
 - The historical price endpoint slowed down given the increase of data we have

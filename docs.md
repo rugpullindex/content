@@ -7,7 +7,8 @@
 3. [Get rank by DID](#GETrankbyDID)
 4. [GET List of Top 25 Data Sets](#GETListofTop25DataSets)
 5. [GET Historical Price Data by DID](#GETHistoricalPriceDatabyDID)
-6. [Access to a shared Ethereum (Erigon) node](#AccessToOurEthereumErigonNode)
+6. [GET Historical Liquidity Data by DID](#GETHistoricalLiquidityDatabyDID)
+7. [Access to a shared Ethereum (Erigon) node](#AccessToOurEthereumErigonNode)
 
 ## Introduction
 
@@ -138,13 +139,58 @@ https://rugpullindex.com/api/v1/prices?did=did:op:7Bce67697eD2858d0683c631DdE7Af
   "prices":[
     118.55482966673834,
     113.07937595324407,
-    133.5169688664073
   ],
   "dates":[
     "2021-01-01T23:01:03.419Z",
     "2021-01-02T23:01:03.438Z",
-    "2021-01-03T23:01:42.826Z"
-  ]
+  ],
+  "symbol": "QUICRA-0"
+}
+```
+
+## GET Historical Liquidity Data by DID
+
+- Endpoint: `/liquidity?did=&start=&end=&currency=&resolution=`
+- Authorization required: yes, **but please reach out if you want to use it.**
+- Rate limiting: no
+
+**Description:** Given an asset's DID, this endpoint returns a list of
+liquidity values for a date range (between `start` and `end`). rugpullindex has
+recorded: 
+
+- the daily liquidity of all OCEAN asset pools since January 1, 2021;
+- the daily liquidity of all BDP asset pools since May 5, 2021
+- the hourly liquidity of all OCEAN & BDP asset pools since November 8, 2021.
+
+We fetch new liquidity data hourly. Liquidity can be displayed in EUR, USD or
+the protocol's base currency `ocean-protocol` and `big-data-protocol`.
+
+**Notes:**
+
+- `currency` must be either `usd`, `eur`, `ocean-protocol` or
+  `big-data-protocol`.
+- `start` and `end` MUST be ISO8601-compliant dates
+- `resolution` must be either `1h` or `1d`. It can also be omitted, but the
+  default value is then `1d`.
+
+**Request:**
+```bash
+curl -H "Authorization: Bearer <token>" \
+https://rugpullindex.com/api/v1/liquidity?did=did:op:7Bce67697eD2858d0683c631DdE7Af823b7eea38&start=2021-01-01T00:00:01.000Z&end=2021-01-03T00:00:00.000Z
+```
+
+**Response:**
+```
+{
+  "liquidity":[
+    137378.5655075427,
+    131033.73772804793
+  ],
+  "dates":[
+    "2021-01-01T23:01:03.419Z",
+    "2021-01-02T23:01:03.438Z",
+  ],
+  "symbol": "QUICRA-0"
 }
 ```
 
