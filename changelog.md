@@ -1,5 +1,9 @@
 # Changelog
 
+## January 15, 2020
+
+- Update chart library to svg-line-chart@[0.4.0](https://github.com/rugpullindex/svg-line-chart/blob/master/CHANGELOG.md#040)
+
 ## January 13, 2022
 
 First of all: Happy New Year.
