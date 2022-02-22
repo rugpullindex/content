@@ -1,6 +1,11 @@
 # Changelog
 
-## January 15, 2020
+## February 22, 2022
+
+- Add `Cache-Control` headers to `/liquidity` and `/prices` endpoints
+  for potential faster retrieval in ALGA app.
+
+## January 15, 2022
 
 - Update chart library to
   svg-line-chart@[0.4.0](https://github.com/rugpullindex/svg-line-chart/blob/master/CHANGELOG.md#040)
