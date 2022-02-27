@@ -1,5 +1,9 @@
 # Changelog
 
+## Feburary 27, 2022
+
+- Removing paywall on front page
+
 ## February 22, 2022
 
 - Add `Cache-Control` headers to `/liquidity` and `/prices` endpoints
